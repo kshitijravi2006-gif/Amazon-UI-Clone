@@ -67,12 +67,6 @@ Open the **index.html** file in your preferred web browser.
 
 ---
 
-## 📸 Preview
-
-> Add screenshots or a GIF of your project here.
-
----
-
 ## 🎯 Future Enhancements
 
 - Add JavaScript for interactive features
